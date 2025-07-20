@@ -45,7 +45,7 @@ MoneyMorph/
 You can run MoneyMorph directly in your browser — no installations or dependencies required:
 
 ```bash
-git clone https://github.com/yourusername/moneymorph.git
+git clone https://github.com/AryanPingoliya30/MoneyMorph.git
 cd moneymorph
 
 Then, just open index.html in any browser.
