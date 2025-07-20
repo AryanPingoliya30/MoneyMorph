@@ -23,14 +23,17 @@
 
 ---
 
-## 📁 Project Structure
+### 📁 Project Structure
+
+```
 MoneyMorph/
-│
-├── index.html # Main webpage
-├── style.css # Stylesheet
-├── app.js # Logic for exchange & swap
-├── codes.js # Currency-to-country code mapping
-└── README.md # This file
+├── index.html         # Main HTML page
+├── style.css          # CSS styling
+├── app.js             # JavaScript logic (fetch & swap)
+├── codes.js           # Currency to country code mapping
+└── README.md          # Project documentation
+```
+
 
 
 
