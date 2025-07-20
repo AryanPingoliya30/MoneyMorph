@@ -24,4 +24,30 @@
 ---
 
 ## 📁 Project Structure
+MoneyMorph/
+│
+├── index.html # Main webpage
+├── style.css # Stylesheet
+├── app.js # Logic for exchange & swap
+├── codes.js # Currency-to-country code mapping
+└── README.md # This file
+
+
+
+
+---
+
+## 🚀 How to Run Locally
+
+You can run MoneyMorph directly in your browser — no installations or dependencies required:
+
+```bash
+git clone https://github.com/yourusername/moneymorph.git
+cd moneymorph
+
+Then, just open index.html in any browser.
+
+⚠️ Note: Make sure you have an active internet connection to fetch API data and flag icons.
+
+
 
